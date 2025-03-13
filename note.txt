@@ -1,0 +1,8 @@
+Column 1: Week number
+Column 2: Tow
+Column 3: Satelite ID
+Column 4: Pseudorange (m)
+Column 6: Carrier phase (cycles)
+Column 8: Doppler
+Column 10: CN0
+Column 12: Rxclockoffset
